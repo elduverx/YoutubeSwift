@@ -9,15 +9,44 @@ import UIKit
 
 class VideoCell: UITableViewCell {
 
-    override func awakeFromNib() {
+  @IBOutlet weak var dotsImage: UIImageView!
+  @IBOutlet weak var viewCountLabel: UILabel!
+  @IBOutlet weak var channelName: UILabel!
+  @IBOutlet weak var titleName: UILabel!
+  @IBOutlet weak var videoImage: UIImageView!
+  override func awakeFromNib() {
         super.awakeFromNib()
-        // Initialization code
+      
     }
-
-    override func setSelected(_ selected: Bool, animated: Bool) {
-        super.setSelected(selected, animated: animated)
-
-        // Configure the view for the selected state
-    }
+  
+  private func configView(){
+    selectionStyle = .none
+  }
+  
+  func configCell(model: Any){
+    if let video = model as? VideoModel.Item{
+      if let imageUrl = video.snippet?.thumbnails.medium?.url, let url = URL(string: imageUrl){
+        videoImage.kf.setImage(with: url)
+      }
+      titleName.text = video.snippet?.title ?? ""
+      channelName.text = video.snippet?.channelTitle ?? ""
+      viewCountLabel.text = "\(video.statistics?.viewCount ?? "0") views · 3 months ago"
+     dots()
+      
+    }else if let playlistItems = model as? PlaylistItemsModel.Item{
+      if let imageUrl = playlistItems.snippet.thumbnails.medium?.url, let url = URL(string: imageUrl){
+        videoImage.kf.setImage(with: url)
+      }
+      titleName.text = playlistItems.snippet.title
+      channelName.text = playlistItems.snippet.channelTitle
+      viewCountLabel.text = "332 views · 3 months ago"
+     dots()
+      }
+    
+  }
+  func dots(){
+    dotsImage.image = UIImage(named: "dots")?.withRenderingMode(.alwaysTemplate)
+    dotsImage.tintColor = UIColor(named: "whiteColor")
+  }
     
 }
