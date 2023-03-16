@@ -1,0 +1,6 @@
+framework module Pods_youtubeClon {
+  umbrella header "Pods-youtubeClon-umbrella.h"
+
+  export *
+  module * { export * }
+}
