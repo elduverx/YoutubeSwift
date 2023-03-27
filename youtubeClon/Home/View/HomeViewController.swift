@@ -50,7 +50,7 @@ extension HomeViewController : UITableViewDelegate,UITableViewDataSource{
   func numberOfSections(in tableView: UITableView) -> Int {
     return objectList.count
   }
-  
+//  func llamado de celdas
   func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
     let item = objectList[indexPath.section]
     if let channel = item as? [ChannelModel.Items]{
@@ -60,6 +60,7 @@ extension HomeViewController : UITableViewDelegate,UITableViewDataSource{
       channelCell.configCell(model: channel[indexPath.row])
       return channelCell
     }else   if let playlistItems = item as? [PlaylistItemsModel.Item]{
+//      llamaos a los items de la celda
       guard let playlistItemsCell = tableView.dequeueReusableCell(withIdentifier: "\(VideoCell.self)", for: indexPath) as? VideoCell else{
         return UITableViewCell()
       }
@@ -68,6 +69,10 @@ extension HomeViewController : UITableViewDelegate,UITableViewDataSource{
     } else  if let videos = item as? [VideoModel.Item]{
       guard let videoCell = tableView.dequeueReusableCell(withIdentifier: "\(VideoCell.self)", for: indexPath) as? VideoCell else{
         return UITableViewCell()
+      }
+//      on click event.
+      videoCell.didTapDotsButton = {
+       print("did tap dots button")
       }
       videoCell.configCell(model: videos[indexPath.row])
       return videoCell

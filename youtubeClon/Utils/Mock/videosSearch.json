@@ -1,0 +1,1706 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "iBVO66zXSlgn6wGJXPdnlnw2vOk",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "US",
+    "pageInfo": {
+        "totalResults": 103476,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "qhECgoIEaKa8Tx2POWnWOoXhd7w",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UC0LrrCe2_jeRd3pepoLQ9Hw"
+            },
+            "snippet": {
+                "publishedAt": "2013-05-28T14:15:10Z",
+                "channelId": "UC0LrrCe2_jeRd3pepoLQ9Hw",
+                "title": "Granuja 666",
+                "description": "Canal Oficial de Granuja 666 MBZ Gordo Sarkasmus Oculto.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/5wX9jZf0qfvI37oUJB4W4e8RiNhhTlnk8vcMRlPnHmZtOSO40gX2oa8fk-wuzSXElBzz3E-nrw=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/5wX9jZf0qfvI37oUJB4W4e8RiNhhTlnk8vcMRlPnHmZtOSO40gX2oa8fk-wuzSXElBzz3E-nrw=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/5wX9jZf0qfvI37oUJB4W4e8RiNhhTlnk8vcMRlPnHmZtOSO40gX2oa8fk-wuzSXElBzz3E-nrw=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "Granuja 666",
+                "liveBroadcastContent": "none",
+                "publishTime": "2013-05-28T14:15:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Y8vCr8mGzzDq-6uYSz5UdFwptw4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "cL5wNXTvOTk"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-11T13:00:19Z",
+                "channelId": "UC0LrrCe2_jeRd3pepoLQ9Hw",
+                "title": "Granuja - Impertinencia (Videoclip)",
+                "description": "Producido por Granuja Videoclip por Alejandro Múnera @Zaratustra89 Suscríbanse al canal: http://bit.ly/2KlAFi2 Más Música ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cL5wNXTvOTk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cL5wNXTvOTk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cL5wNXTvOTk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Granuja 666",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-11T13:00:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "cochCfmQoq6tT7GhIUNqbqvO2JU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "auAIsRn0mPM"
+            },
+            "snippet": {
+                "publishedAt": "2017-04-02T23:09:04Z",
+                "channelId": "UC-8yJ24irfMeUisG2o_D3Ng",
+                "title": "Granuja - De Pe a Pa",
+                "description": "Suscribirse a Moebiuz: http://bit.ly/34dP5Yx Círculo Vicioso Disponible en todas las plataformas digitales: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/auAIsRn0mPM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/auAIsRn0mPM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/auAIsRn0mPM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Moebiuz",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-04-02T23:09:04Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "XOwB_NRe9erARwJSfo7lmB_EQ3Q",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "FsV8j0-OJP4"
+            },
+            "snippet": {
+                "publishedAt": "2016-03-24T00:54:55Z",
+                "channelId": "UC-8yJ24irfMeUisG2o_D3Ng",
+                "title": "Granuja - Círculo vicioso  (video oficial)",
+                "description": "Videoclip oficial de Círculo vicioso, del primer disco en solitario de Granuja, de Gordo Sarkasmus, que tendrá el mismo nombre.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FsV8j0-OJP4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FsV8j0-OJP4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FsV8j0-OJP4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Moebiuz",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-03-24T00:54:55Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "fN9mChtAlQ2_9UaEibCrSokMiz4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "sAXBT_A0xGY"
+            },
+            "snippet": {
+                "publishedAt": "2016-12-16T21:37:50Z",
+                "channelId": "UC-8yJ24irfMeUisG2o_D3Ng",
+                "title": "Rap y Hierbas: Sesión #10 - Mango Biche Feat Granuja AKA Granuggio",
+                "description": "MBZ presenta Rap y Hierbas, donde semanalmente participará un invitado sobre beats de Granuggio. Suscribirse a Moebiuz: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sAXBT_A0xGY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sAXBT_A0xGY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sAXBT_A0xGY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Moebiuz",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-12-16T21:37:50Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "6rx1zW3Nho8RRm1x5lX9uXMpRHA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "hVb2axDnHzc"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-17T16:00:06Z",
+                "channelId": "UC3V9GtLEHgIVuk4lcTwBStQ",
+                "title": "JUAN SINATRA &amp; GRANUJA - DE TODO UN POCO",
+                "description": "DE TODO UN POCO - Juan Sinatra & Granuja Producida, mezclada y masterizada por Granuja Escrita por Juan Sinatra ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hVb2axDnHzc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hVb2axDnHzc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hVb2axDnHzc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Juan Sinatra",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-17T16:00:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "3avqKPqrCwZAXkHX8-HErTS70GI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2f1adqV8f1E"
+            },
+            "snippet": {
+                "publishedAt": "2021-03-12T21:00:13Z",
+                "channelId": "UCChEODq0gnLc7TcX_iOEVYA",
+                "title": "Granuja - De Pe a Pa - Live Session [Audio Directo]",
+                "description": "AudioDirecto​ #LiveSessions​ #RevolutionaryFilms​ Versión grabada en directo - Live Session - 2021. AudioVision - Bogota ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2f1adqV8f1E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2f1adqV8f1E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2f1adqV8f1E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Audio Directo // Revolutionary Films",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-03-12T21:00:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "N_mp5E5tPBFMDdLGRqeVJQXnYP4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "u6kCjgR1xPs"
+            },
+            "snippet": {
+                "publishedAt": "2019-09-27T13:00:11Z",
+                "channelId": "UC0LrrCe2_jeRd3pepoLQ9Hw",
+                "title": "Granuja - Días de Perros (Videoclip)",
+                "description": "Próximamente Vergüenza Propia (2019) Producido por: Granuja Videoclip: Alejandro Múnera, David Escallón, Laura Gallego ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/u6kCjgR1xPs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/u6kCjgR1xPs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/u6kCjgR1xPs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Granuja 666",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-09-27T13:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "-loiR1IBh7UrOTbJqdUF-PtRTC0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bCmURyN_-A4"
+            },
+            "snippet": {
+                "publishedAt": "2020-04-17T18:38:56Z",
+                "channelId": "UC0LrrCe2_jeRd3pepoLQ9Hw",
+                "title": "Granuja - The Weedtape  (Full Album - Videoclip)",
+                "description": "Granuja - The Weedtape (Full Album - Videoclip) Suscribanse al canal: http://bit.ly/2KlAFi2 Visuales por Alejandro Múnera ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bCmURyN_-A4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bCmURyN_-A4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bCmURyN_-A4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Granuja 666",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-04-17T18:38:56Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "bo-_iixLCVYawEsuZ_y3ISKq6kA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "10XeQXl_tNg"
+            },
+            "snippet": {
+                "publishedAt": "2022-04-23T19:00:09Z",
+                "channelId": "UC0LrrCe2_jeRd3pepoLQ9Hw",
+                "title": "Granuja - Círculo Vicioso (Full Album)",
+                "description": "Se cumplen 5 Años de Círculo Vicioso y aquí les dejo el disco completo. Remasterizado 2022 00:00 Círculo Vicioso (Prod ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/10XeQXl_tNg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/10XeQXl_tNg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/10XeQXl_tNg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Granuja 666",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-04-23T19:00:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "jS10rCAVwMAIYwM_4Vdjau84NAg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "9k1YfVEGCnQ"
+            },
+            "snippet": {
+                "publishedAt": "2017-04-17T17:04:07Z",
+                "channelId": "UC-8yJ24irfMeUisG2o_D3Ng",
+                "title": "Granuja - Quién pidió pollo Feat Doble Porción",
+                "description": "Suscribirse a Moebiuz: http://bit.ly/34dP5Yx Círculo Vicioso Disponible en todas las plataformas digitales: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9k1YfVEGCnQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9k1YfVEGCnQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9k1YfVEGCnQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Moebiuz",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-04-17T17:04:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "yOqLZ8J11D2GPSsS_nSKOvVUOaM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "E6oZorQDiN0"
+            },
+            "snippet": {
+                "publishedAt": "2019-06-28T13:00:01Z",
+                "channelId": "UC0LrrCe2_jeRd3pepoLQ9Hw",
+                "title": "Granuja - Partículas (Videoclip)",
+                "description": "Proximamente Vergüenza Propia (2019). Producido por: Granuja Videoclip: Alejandro Múnera, David Escallón, Laura Gallego ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/E6oZorQDiN0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/E6oZorQDiN0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/E6oZorQDiN0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Granuja 666",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-06-28T13:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "DKbQBUGH7vG73ddiUz7W9utk34k",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "caIzGwT3mVc"
+            },
+            "snippet": {
+                "publishedAt": "2020-11-01T17:00:07Z",
+                "channelId": "UC0LrrCe2_jeRd3pepoLQ9Hw",
+                "title": "Granuja &amp; Métricas Frías Feat Jonas Sanche - Monedas de Cuero (Videoclip)",
+                "description": "Adelanto del álbum Oculto de Granuja y Métricas Frías Oculto Producido por Granuja Tomas por ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/caIzGwT3mVc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/caIzGwT3mVc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/caIzGwT3mVc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Granuja 666",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-11-01T17:00:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "soUbY3KixmsonfxvJ5af0sCNn90",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yjsPjSTEGwQ"
+            },
+            "snippet": {
+                "publishedAt": "2022-10-07T15:00:51Z",
+                "channelId": "UC0LrrCe2_jeRd3pepoLQ9Hw",
+                "title": "Granuja &amp; @LaDuplaDLD  - Cicatrices Prod. @EddyMugre",
+                "description": "Sencillo de Granuja & La Dupla Producido por Eddy Mugre Escucha en tu plataforma favorita https://onerpm.link/205385141439 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yjsPjSTEGwQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yjsPjSTEGwQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yjsPjSTEGwQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Granuja 666",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-10-07T15:00:51Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "YbS7GhUWiHkrFp_9mut-MwnfMFU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "hrTxTIDX7Ek"
+            },
+            "snippet": {
+                "publishedAt": "2019-03-08T14:00:08Z",
+                "channelId": "UC0LrrCe2_jeRd3pepoLQ9Hw",
+                "title": "Granuja - Hienas (con Métricas Frías) Videoclip",
+                "description": "Granuja - Hienas (Con Métricas Frías) Videoclip Sencillo producido por Granuja Hienas (Con Métricas Frías): ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hrTxTIDX7Ek/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hrTxTIDX7Ek/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hrTxTIDX7Ek/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Granuja 666",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-03-08T14:00:08Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "1suOLjaL9Vs6qvCmpdLsGQCSLfE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vwD0u_sdutQ"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-15T10:43:49Z",
+                "channelId": "UCrBcraKuDBqvS7zaABmx3Iw",
+                "title": "Ateo",
+                "description": "Provided to YouTube by ONErpm Ateo · Granuja · Mateo Montaño Selección Natural ℗ Granuja Released on: 2018-11-16 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vwD0u_sdutQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vwD0u_sdutQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vwD0u_sdutQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Granuja - Topic",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-11-15T10:43:49Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "zY3kVihgiS_VkpJqwj-1Xe5geSM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qWolltlNSh0"
+            },
+            "snippet": {
+                "publishedAt": "2021-02-12T13:00:15Z",
+                "channelId": "UC0LrrCe2_jeRd3pepoLQ9Hw",
+                "title": "Granuja - Sombra (Videoclip)",
+                "description": "Granuja - Sombra (Videoclip) Sencillo producido por Granuja Tomas por @Zaratustra89 Suscríbanse al canal: http://bit.ly/2KlAFi2 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qWolltlNSh0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qWolltlNSh0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qWolltlNSh0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Granuja 666",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-02-12T13:00:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "vlHdNyDxUndHRj3cP09MXAVlNQQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "k1-kFtpAylM"
+            },
+            "snippet": {
+                "publishedAt": "2022-12-27T10:00:18Z",
+                "channelId": "UCjnJtifn6c4gYOTOMenZG6g",
+                "title": "Nada Está Escrito Ep. 19 Granuja",
+                "description": "En esté último episodio del año 2022 en Nada Está Escrito hablamos con un gran amigo Granuja sobre sus comienzos como ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/k1-kFtpAylM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/k1-kFtpAylM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/k1-kFtpAylM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lucho Cloud",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-12-27T10:00:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "2bJmpVaERuwrEydLpKl-XOd7_1A",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "WT1Xp6sLT1Q"
+            },
+            "snippet": {
+                "publishedAt": "2019-08-30T13:00:09Z",
+                "channelId": "UC0LrrCe2_jeRd3pepoLQ9Hw",
+                "title": "Granuja - Vienen y Se Van (Videoclip)",
+                "description": "Granuja - Vienen y Se Van Próximamente Vergüenza Propia (2019) Producido por: Granuja Videoclip: Alejandro Múnera, David ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WT1Xp6sLT1Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WT1Xp6sLT1Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WT1Xp6sLT1Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Granuja 666",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-08-30T13:00:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "p1KoC0IpBazdLIYnByjDduLOZV8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xwSL5_U1SyY"
+            },
+            "snippet": {
+                "publishedAt": "2020-10-16T13:00:16Z",
+                "channelId": "UC0LrrCe2_jeRd3pepoLQ9Hw",
+                "title": "Granuja &amp; Métricas Frías - Ojos (Videoclip)",
+                "description": "Adelanto del álbum Oculto de Granuja y Métricas Frías Oculto Producido por Granuja Tomas por ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xwSL5_U1SyY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xwSL5_U1SyY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xwSL5_U1SyY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Granuja 666",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-10-16T13:00:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "QUCY2zfKIeLaUIy_IOHk17KQTRk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ZKItcKbicxM"
+            },
+            "snippet": {
+                "publishedAt": "2020-09-25T13:00:08Z",
+                "channelId": "UC0LrrCe2_jeRd3pepoLQ9Hw",
+                "title": "Granuja &amp; Métricas Frías - Alucinados (Videoclip)",
+                "description": "Granuja & Métricas Frías - Alucinados (Videoclip) Segundo sencillo del álbum Oculto de Granuja & Métricas Frías Producido por ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZKItcKbicxM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZKItcKbicxM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZKItcKbicxM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Granuja 666",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-09-25T13:00:08Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "TvejUYatPl-uI4byQUJl3JLmFfo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "L2lsmwTDbtE"
+            },
+            "snippet": {
+                "publishedAt": "2017-04-20T19:46:24Z",
+                "channelId": "UC-8yJ24irfMeUisG2o_D3Ng",
+                "title": "Granuja -  Granuggio 2200 * Videoclip",
+                "description": "Círculo Vicioso Disponible en todas las plataformas digitales https://onerpm.lnk.to/CirculoVicioso Beat por Crudo Means Raw ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/L2lsmwTDbtE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/L2lsmwTDbtE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/L2lsmwTDbtE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Moebiuz",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-04-20T19:46:24Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "DJYDorPQ4gYHsorEzElae-kyiKA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "p84y_goOw-k"
+            },
+            "snippet": {
+                "publishedAt": "2019-10-25T13:00:17Z",
+                "channelId": "UC0LrrCe2_jeRd3pepoLQ9Hw",
+                "title": "Granuja - Cambios",
+                "description": "Suscribanse al canal: http://bit.ly/2KlAFi2 Vergüenza Propia nuevo álbum: https://onerpm.lnk.to/VerguenzaPropia Más Música ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/p84y_goOw-k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/p84y_goOw-k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/p84y_goOw-k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Granuja 666",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-10-25T13:00:17Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "jSYwmtL_fkB7vZSJdTk9JuTlyAQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "M6CG-CU07n4"
+            },
+            "snippet": {
+                "publishedAt": "2017-01-30T17:10:05Z",
+                "channelId": "UC-8yJ24irfMeUisG2o_D3Ng",
+                "title": "Granuja - Qué hay pa&#39; hacer",
+                "description": "Segundo videoclip del álbum Círculo Vicioso que estará disponible en marzo. Producción por Granuja AKA Granuggio Edición ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/M6CG-CU07n4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/M6CG-CU07n4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/M6CG-CU07n4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Moebiuz",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-01-30T17:10:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "y18BDskBuZH38h52HXHvUjIZWCU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vvIfrLwBClU"
+            },
+            "snippet": {
+                "publishedAt": "2020-10-09T13:00:28Z",
+                "channelId": "UC0LrrCe2_jeRd3pepoLQ9Hw",
+                "title": "Granuja &amp; Métricas Frías - Tierra Santa (Videoclip)",
+                "description": "Sencillo del disco próximo a salir Oculto de Granuja y Métricas Frías Tema grabado el mismo día que se realizó el clip de ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vvIfrLwBClU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vvIfrLwBClU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vvIfrLwBClU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Granuja 666",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-10-09T13:00:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "FDeqaX5ALvpBXv7Bs_3t7TNnSpE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6X2Y9xGhQts"
+            },
+            "snippet": {
+                "publishedAt": "2020-10-02T13:00:01Z",
+                "channelId": "UC0LrrCe2_jeRd3pepoLQ9Hw",
+                "title": "Granuja &amp; Métricas Frías - Oscuridad (Sesión en vivo)",
+                "description": "Granuja & Métricas Frías - Oscuridad (Sesión en vivo) Tercer sencillo del álbum Oculto de Granuja y Métricas Frías Producido por ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6X2Y9xGhQts/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6X2Y9xGhQts/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6X2Y9xGhQts/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Granuja 666",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-10-02T13:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "6cseK2Ht7sqk8GL9gMhtxpe24Ko",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "PvO4yqUEXUo"
+            },
+            "snippet": {
+                "publishedAt": "2020-12-04T13:00:21Z",
+                "channelId": "UC0LrrCe2_jeRd3pepoLQ9Hw",
+                "title": "Granuja &amp; Métricas Frías  - Oculto (Full Album)",
+                "description": "Full Album de Granuja y Métricas Frías Todos los beats y producción por Granuja Arte por César Téllez ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PvO4yqUEXUo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PvO4yqUEXUo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PvO4yqUEXUo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Granuja 666",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-12-04T13:00:21Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "yV1PVbGzsz5-bIXmoM0aU4n0ByI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "uuJlxnu-y1Y"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-15T10:43:41Z",
+                "channelId": "UCrBcraKuDBqvS7zaABmx3Iw",
+                "title": "Echoes",
+                "description": "Provided to YouTube by ONErpm Echoes · Granuja · Mateo Montaño Selección Natural ℗ Granuja Released on: 2018-11-16 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uuJlxnu-y1Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uuJlxnu-y1Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uuJlxnu-y1Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Granuja - Topic",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-11-15T10:43:41Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "vvxVZrTaxoWYPDAR9c7fdprk8wg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qaK6Sr-ta0w"
+            },
+            "snippet": {
+                "publishedAt": "2017-04-03T15:59:28Z",
+                "channelId": "UC-8yJ24irfMeUisG2o_D3Ng",
+                "title": "Granuja - La Murga Feat Mañas &amp; N. Hardem",
+                "description": "Círculo Vicioso Disponible en todas las plataformas digitales https://onerpm.lnk.to/CirculoVicioso Producción por Granuja AKA ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qaK6Sr-ta0w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qaK6Sr-ta0w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qaK6Sr-ta0w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Moebiuz",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-04-03T15:59:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "xUJ-wYbq8poJKFQDILfAZ7z077c",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wo1WG31GyNM"
+            },
+            "snippet": {
+                "publishedAt": "2017-04-19T15:45:14Z",
+                "channelId": "UC-8yJ24irfMeUisG2o_D3Ng",
+                "title": "Granuja - Sin City",
+                "description": "Círculo Vicioso Disponible en todas las plataformas digitales https://onerpm.lnk.to/CirculoVicioso LETRA De rosas no se vive sino ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wo1WG31GyNM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wo1WG31GyNM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wo1WG31GyNM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Moebiuz",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-04-19T15:45:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "AxgsN8vFhI3IHp7ynsTEd4cRntE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "XvCufrOTbmw"
+            },
+            "snippet": {
+                "publishedAt": "2019-10-18T13:00:05Z",
+                "channelId": "UC0LrrCe2_jeRd3pepoLQ9Hw",
+                "title": "Granuja - Justa Causa (Videoclip)",
+                "description": "Espera Vergüenza propia este 25 de octubre en todas las plataformas Producido por: Granuja Videoclip: Alejandro Múnera, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XvCufrOTbmw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XvCufrOTbmw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XvCufrOTbmw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Granuja 666",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-10-18T13:00:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "zSMCDFvBq9D8UIApBzokjCl3RiE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ljtCGoCkQJk"
+            },
+            "snippet": {
+                "publishedAt": "2016-10-14T22:38:02Z",
+                "channelId": "UC-8yJ24irfMeUisG2o_D3Ng",
+                "title": "Rap y Hierbas: Sesión #1 - Punto Rojo Feat Mañas",
+                "description": "MBZ presenta Rap y Hierbas, donde semanalmente participará un invitado sobre beats de Granuggio. Suscribirse a Moebiuz: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ljtCGoCkQJk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ljtCGoCkQJk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ljtCGoCkQJk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Moebiuz",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-10-14T22:38:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "-XQMYyopGKDqJ4SX5oNCBFIOhmw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "63Hdlmgr_m4"
+            },
+            "snippet": {
+                "publishedAt": "2021-04-23T13:00:03Z",
+                "channelId": "UC0LrrCe2_jeRd3pepoLQ9Hw",
+                "title": "Granuja - Malos Hábitos - Beat Tape (Full Album video)",
+                "description": "Álbum de instrumentales conmemorando el 4/20 Producido por Granuja Diseño por Sako Asko ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/63Hdlmgr_m4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/63Hdlmgr_m4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/63Hdlmgr_m4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Granuja 666",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-04-23T13:00:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "k_Tmxogl7NsDBQQrnto_xhPwVwI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "d3p5HZ8uB-Y"
+            },
+            "snippet": {
+                "publishedAt": "2018-05-12T00:49:18Z",
+                "channelId": "UC-8yJ24irfMeUisG2o_D3Ng",
+                "title": "Granuja - Messier 64 (Álbum completo Videoclip)",
+                "description": "Videoclip oficial del álbum completo Messier 64 de Granuja. Visuales por David Escallón http://instagram.com/david.esca Messier ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/d3p5HZ8uB-Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/d3p5HZ8uB-Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/d3p5HZ8uB-Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Moebiuz",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-05-12T00:49:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "IY-fgZO3P_R-2ZprYqL_ULU-fz0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "uAYBiTNOiYQ"
+            },
+            "snippet": {
+                "publishedAt": "2017-03-31T18:16:11Z",
+                "channelId": "UC-8yJ24irfMeUisG2o_D3Ng",
+                "title": "Granuja - El Agujero Ft  Geko RBN",
+                "description": "Círculo Vicioso Disponible en todas las plataformas digitales https://onerpm.lnk.to/CirculoVicioso Producción por Granuja AKA ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uAYBiTNOiYQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uAYBiTNOiYQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uAYBiTNOiYQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Moebiuz",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-03-31T18:16:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "RerdNQq9n0_Ru9YX3VU22T-1jRw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "IH-r_KvecY4"
+            },
+            "snippet": {
+                "publishedAt": "2016-10-28T21:00:49Z",
+                "channelId": "UC-8yJ24irfMeUisG2o_D3Ng",
+                "title": "Rap y Hierbas: Sesión #3 - Blue Satellite Feat Métricas Frías",
+                "description": "MBZ presenta Rap y Hierbas, donde semanalmente participará un invitado sobre beats de Granuggio. Suscribirse a Moebiuz: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IH-r_KvecY4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IH-r_KvecY4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IH-r_KvecY4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Moebiuz",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-10-28T21:00:49Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_hg09s_dXyP4jnKpcEPdjVRl3l0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "FQMdKHuipgI"
+            },
+            "snippet": {
+                "publishedAt": "2018-05-11T19:05:10Z",
+                "channelId": "UC-8yJ24irfMeUisG2o_D3Ng",
+                "title": "01. Vía Láctea -  Granuja",
+                "description": "Messier 64 está producido en sus totalidad por Granuja. Todas las instrumentales están protegidas por derechos de autor, no se ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FQMdKHuipgI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FQMdKHuipgI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FQMdKHuipgI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Moebiuz",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-05-11T19:05:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "UJEnxrZie0eRkCZh4zwbhumEyPs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "fXXUi30M3ds"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-06T13:00:18Z",
+                "channelId": "UC0LrrCe2_jeRd3pepoLQ9Hw",
+                "title": "Granuja - Somnus (Videoclip)",
+                "description": "Sencillo de Granuja \"Somnus\" en todas las plataformas digitales https://onerpm.lnk.to/Somnus Producido por Granuja Videoclip ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fXXUi30M3ds/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fXXUi30M3ds/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fXXUi30M3ds/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Granuja 666",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-08-06T13:00:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_Y1DOwbzPqUmKflc6Frw-wsPNug",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "t34x4bVj2N8"
+            },
+            "snippet": {
+                "publishedAt": "2020-12-04T13:00:31Z",
+                "channelId": "UC0LrrCe2_jeRd3pepoLQ9Hw",
+                "title": "Granuja &amp; Métricas Frías - Pájaros",
+                "description": "Del Álbum Oculto de Métricas Frías y Granuja Producido por Granuja Suscríbanse al canal: http://bit.ly/2KlAFi2 Más Música Aquí: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/t34x4bVj2N8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/t34x4bVj2N8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/t34x4bVj2N8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Granuja 666",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-12-04T13:00:31Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "SxFqKBYesWdcrJMctjDixNDm1NY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "o8M9cNGnmo8"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-16T18:17:33Z",
+                "channelId": "UC-8yJ24irfMeUisG2o_D3Ng",
+                "title": "Granuja - Selección Natural - Ateo",
+                "description": "Selección Natural. Cada semana un tema para Instagram con un clip corto. Letras inéditas en beats guardados. “Ateo” (Usar ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/o8M9cNGnmo8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/o8M9cNGnmo8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/o8M9cNGnmo8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Moebiuz",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-11-16T18:17:33Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4NAmzICUIq9r0lO4OSXHCk3Xln0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "tTr_k0MMjHQ"
+            },
+            "snippet": {
+                "publishedAt": "2019-04-19T12:57:45Z",
+                "channelId": "UC0LrrCe2_jeRd3pepoLQ9Hw",
+                "title": "Gordo Sarkasmus - Mal Ejemplo (Con Deejohend) Videoclip",
+                "description": "Sigue lo mejor de Granuja: https://ONErpm.lnk.to/Peapa Más Música Aquí: https://ONErpm.lnk.to/Granuja Ondas Hip Hop: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tTr_k0MMjHQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tTr_k0MMjHQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tTr_k0MMjHQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Granuja 666",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-04-19T12:57:45Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "toRwV16iRPWs-A7IktNT6YhFzEY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8xrauRYLg60"
+            },
+            "snippet": {
+                "publishedAt": "2019-10-25T13:00:00Z",
+                "channelId": "UC0LrrCe2_jeRd3pepoLQ9Hw",
+                "title": "Granuja - Vergüenza Propia (Tema)",
+                "description": "Suscribanse al canal: http://bit.ly/2KlAFi2 Vergüenza Propia nuevo álbum: https://onerpm.lnk.to/VerguenzaPropia Más Música ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8xrauRYLg60/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8xrauRYLg60/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8xrauRYLg60/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Granuja 666",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-10-25T13:00:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "BajYWQK0QRoiQnPOia94x72iNv0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8e2BnJ7Kd9Y"
+            },
+            "snippet": {
+                "publishedAt": "2019-07-26T13:00:01Z",
+                "channelId": "UC0LrrCe2_jeRd3pepoLQ9Hw",
+                "title": "Granuja - Parpadeos (Videoclip)",
+                "description": "Proximamente Vergüenza Propia (2019) Producido por: Granuja Videoclip: Alejandro Múnera, David Escallón, Laura Gallego, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8e2BnJ7Kd9Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8e2BnJ7Kd9Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8e2BnJ7Kd9Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Granuja 666",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-07-26T13:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "-YtdpWSs-ugR3YTSQwJmuEJT_uM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "gmHn1MilwaA"
+            },
+            "snippet": {
+                "publishedAt": "2021-06-28T21:05:15Z",
+                "channelId": "UCzYbGDfUFSDXRPRBybIXmqQ",
+                "title": "RAP Y HIERBAS: SESION#10(LETRA)GRANUJA AKA GRANUGGIO",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gmHn1MilwaA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gmHn1MilwaA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gmHn1MilwaA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Liricas Oscuras",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-06-28T21:05:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "877X_dtIZeSoRcNBwJrHHjijq_w",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xx_2z7X2gio"
+            },
+            "snippet": {
+                "publishedAt": "2020-11-19T13:00:13Z",
+                "channelId": "UC0LrrCe2_jeRd3pepoLQ9Hw",
+                "title": "Granuja &amp; Métricas Frías Feat Foyone - Casual (Videoclip)",
+                "description": "Extraído de Oculto de Granuja y Métricas Frías junto a Foyone de España ¡Full Album 4 de diciembre! Producido por Granuja ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xx_2z7X2gio/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xx_2z7X2gio/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xx_2z7X2gio/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Granuja 666",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-11-19T13:00:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "7f6l7hDiWnlyQyrs-QnxGhIr2w0",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLkbKXUvwlgc-3OCrD8_MFYRWuxJ9kIgPb"
+            },
+            "snippet": {
+                "publishedAt": "2019-07-15T15:28:53Z",
+                "channelId": "UCRQ_BgaXrniggfiXTnyM6_Q",
+                "title": "Granuja mix",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sAXBT_A0xGY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sAXBT_A0xGY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sAXBT_A0xGY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "juan david correa hincapie",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-07-15T15:28:53Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ithKNf3lohmS1uwIZaaPkoqcmuA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yMXruuzlCoc"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-10T01:35:48Z",
+                "channelId": "UC96emuJNt1aF-8_icFyc_pw",
+                "title": "NICHE LS - FLUIR ASÍ FT GRANUJA (BEAT) Y DEEJOHEND (SCRATCH)",
+                "description": "Grabado en AMD studios Diseño por Okap collins Edición GBN Máster por Zabaz.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yMXruuzlCoc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yMXruuzlCoc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yMXruuzlCoc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "NICHE LS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-11-10T01:35:48Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "OX44ppYi8WVXOHAPFkKroJjfdPE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rxMSxdGTBJw"
+            },
+            "snippet": {
+                "publishedAt": "2018-04-27T21:05:06Z",
+                "channelId": "UC-8yJ24irfMeUisG2o_D3Ng",
+                "title": "Noiseferatu - Deus ex Machina Prod. Granuja",
+                "description": "Primer adelanto del próximo disco de Rapiphero \"Noiseferatu\" Producción: Granuja https://www.instagram.com/granuja666/ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rxMSxdGTBJw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rxMSxdGTBJw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rxMSxdGTBJw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Moebiuz",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-04-27T21:05:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "C9pVcEgZ94klf0W5M7KJImC0jPM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "BazDPN_E_jE"
+            },
+            "snippet": {
+                "publishedAt": "2021-06-04T13:05:44Z",
+                "channelId": "UC96emuJNt1aF-8_icFyc_pw",
+                "title": "NICHE LS FT GRANUJA - DAYTONA",
+                "description": "\"Pablito ya se murió pero todavía nos domina\" \"Si el tombo está inspirado es porque la muerte es su musa\" Beat / Master / Mezcla ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BazDPN_E_jE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BazDPN_E_jE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BazDPN_E_jE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "NICHE LS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-06-04T13:05:44Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "vZKd99bnLswE7c1Z3Me6iWsy2m0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ZSXU3WGQhJI"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-09T16:00:07Z",
+                "channelId": "UCnek_GM1RwKfKu_ms1zspmQ",
+                "title": "&quot;PRIMAL&quot; - Drama Theme, Granuja, Chuchú Bermudas",
+                "description": "DramaTheme @granuja666 @ChuchuBermudas presentan \"PRIMAL\". https://onerpm.link/primal Escrito e interpretado por Drama ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZSXU3WGQhJI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZSXU3WGQhJI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZSXU3WGQhJI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "yoyodojonet",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-09T16:00:07Z"
+            }
+        }
+    ]
+}

@@ -14,6 +14,9 @@ class VideoCell: UITableViewCell {
   @IBOutlet weak var channelName: UILabel!
   @IBOutlet weak var titleName: UILabel!
   @IBOutlet weak var videoImage: UIImageView!
+  
+  var didTapDotsButton : (()->Void)?
+  
   override func awakeFromNib() {
         super.awakeFromNib()
       
@@ -21,6 +24,13 @@ class VideoCell: UITableViewCell {
   
   private func configView(){
     selectionStyle = .none
+  }
+  
+  
+  @IBAction func dotAction(_ sender: Any) {
+    if let tap = didTapDotsButton{
+      tap()
+    }
   }
   
   func configCell(model: Any){
